@@ -159,34 +159,6 @@ npm run build
 
 ---
 
-# 📊 Project Roadmap
-
-```
-✅ Landing Page
-
-✅ Authentication
-
-✅ Student Dashboard
-
-✅ Mentor Dashboard
-
-✅ Admin Dashboard
-
-⬜ Live Classes
-
-⬜ Discussion Forum
-
-⬜ Trading Journal
-
-⬜ AI Market Assistant
-
-⬜ Mobile Application
-
-⬜ Community Chat
-```
-
----
-
 # 📈 Why Trading Coaching?
 
 ✔ Professional Learning Experience
